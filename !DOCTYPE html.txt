@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Una página HTML en blanco</title>
+        <meta charset="utf-8" />
+    </head>
+    <body>
+        
+    </body>
+</html>

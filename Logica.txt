@@ -1,0 +1,25 @@
+Aquí tienes algunos conceptos básicos de lógica que pueden ser útiles para comprender mejor esta área:
+
+Proposición: Una proposición es una afirmación que puede ser verdadera o falsa, pero no ambas a la vez. Por ejemplo, "Hoy es lunes" es una proposición.
+
+Conectores lógicos: Son términos que permiten combinar proposiciones para formar enunciados más complejos. Algunos conectores lógicos comunes son "y" (conjunción), "o" (disyunción) y "si... entonces" (implicación).
+
+Premisa: Es una proposición que se toma como verdadera para fundamentar un razonamiento.
+
+Conclusión: Es la proposición que se deriva a partir de las premisas en un argumento válido.
+
+Argumento: Es un conjunto de proposiciones en el que una o varias de ellas (premisas) pretenden dar apoyo o razón a otra (conclusión).
+
+Validez: Un argumento es válido cuando la verdad de las premisas garantiza la verdad de la conclusión.
+
+Consistencia: Se refiere a la propiedad de un conjunto de proposiciones que no presentan contradicciones entre sí.
+
+Tautología: Es una proposición que siempre es verdadera, independientemente de la verdad de las proposiciones que la componen.
+
+Contradicción: Es una proposición que siempre es falsa, sin importar la verdad de las proposiciones que la componen.
+
+Razonamiento inductivo: Es el tipo de razonamiento en el que se infiere una conclusión general a partir de observaciones específicas.
+
+Razonamiento deductivo: Es el tipo de razonamiento en el que se infiere una conclusión específica a partir de premisas generales.
+
+Estos son solo algunos conceptos básicos de lógica que pueden servir como punto de partida para adentrarse en este campo. ¡Si deseas más información o tienes alguna otra pregunta, no dudes en decírmelo!
